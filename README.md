@@ -1,2 +1,2 @@
 # List of ddos
-education porpuses
+There are several example codes for a DDoS, for educational purposes
